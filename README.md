@@ -5,4 +5,4 @@ Setup for
 1. spring-boot
 2. rest service
 3. DataBase configuration
-4.
+4. jms xml configuration
