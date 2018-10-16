@@ -24,8 +24,7 @@ public class SubEndPoint {
 		
 	}
 
-	@RequestMapping(value = API_PATH, method = RequestMethod.GET)
-	
+	@RequestMapping(value = API_PATH, method = RequestMethod.GET)	
 	public @ResponseBody String startColdStart() {
 		LOGGER.info("Starting Coldstart Capabilities " );
 		try {			
